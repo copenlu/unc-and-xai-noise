@@ -19,3 +19,25 @@ This folder contains scripts to run experiments on clean and noise-augmented dat
 
 ### evaluation
 This folder contains scripts to aggregate and process the results of experiments for evaluation, as well as to evaluate the final results.
+
+## Citation
+If you use our code or dataset, kindly cite it using
+```
+@inproceedings{marjanovic-etal-2024-investigating,
+    title = "Investigating the Impact of Model Instability on Explanations and Uncertainty",
+    author = "Marjanovic, Sara  and
+      Augenstein, Isabelle  and
+      Lioma, Christina",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.705",
+    doi = "10.18653/v1/2024.findings-acl.705",
+    pages = "11854--11879"
+}
+```
